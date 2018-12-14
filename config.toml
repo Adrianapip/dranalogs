@@ -21,6 +21,7 @@ theme = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
+enableEmoji = true
 
 [permalinks]
   post = "/:year/:month/:slug/"
@@ -33,7 +34,7 @@ canonifyurls = true
 [author]
   name = "Adriana"
   bio = "Books, Recipes & Randomness"
-  #job = "Your job title"
+  job = "Your job title"
   #location = "France"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   #gravatarEmail = "thibaud.lepretre@gmail.com"

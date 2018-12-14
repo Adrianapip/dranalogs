@@ -11,16 +11,21 @@ keywords:
 - almond
 - cookies
 autoThumbnailImage: false
-thumbnailImagePosition: "top"
-thumbnailImage: 
+thumbnailImagePosition: left
+thumbnailImage: /cherry_almond_biscotti_tn.jpg/
 coverImage: 
 metaAlignment: center
 ---
+A sweet almond biscotti balanced by tart cherries. 
+
+<!--more-->
+
+
 :alarm_clock:: 2 hours <br>
 :cookie:: makes about 30 cookies
 
 
-{{< image classes="fancybox center" src=""  title="" >}}
+{{< image classes="fancybox center" src="/cherry_almond_biscotti.jpg/"  title="Warm from the oven" >}}
 
 ## Ingredients
 * 180g (1 1/2) cups all-purpose flour 

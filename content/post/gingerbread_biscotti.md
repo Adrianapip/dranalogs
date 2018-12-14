@@ -1,5 +1,5 @@
 ---
-title: "Banana Bread"
+title: "Gingerbread Biscotti"
 date: 2018-11-10
 categories:
 - recipes
@@ -10,57 +10,86 @@ keywords:
 - banana
 - bread
 autoThumbnailImage: false
-thumbnailImagePosition: "top"
-thumbnailImage: 
+thumbnailImagePosition: left
+thumbnailImage: /gingerbread_biscotti_tn.jpg/
 coverImage: 
 metaAlignment: center
 ---
-Banana bread recipe passed down from Grandma Patterson. Originally handwritten in an old cookbook, the recipe was passed down my Mom, complete with her Thai annotations.
+A cripsy and spicy cookie for the holidays.
 <!--more-->
 
-{{< image classes="fancybox center" src="/banana_bread.jpg"  title="Banana Bread" >}}
+:alarm_clock:: 2 hours <br>
+:cookie:: makes about 30 cookies
 
-<p></p>
+<br>
 
->"To Pim with Love, Mom. April 18, 1981"
+{{< image classes="fancybox center" src="/gingerbread_biscotti.jpg/"  title="Biscotti warm from the oven" >}}
 
+<br>
 
 
 ## Ingredients
+* 180g + 15 g (1 1/2 cups + 2 TB) all-purpose flour 
+* 1 1/2 teaspoons baking powder
+* 1 tsp cinnamon
+* 1 tsp ginger
+* 1/16 ground cloves
+* 1/4 tsp freshly ground nutmeg
+* few grinds black pepper 
+* 1/4 teaspoon salt 
+* 69g (1/2 cup) corn meal
+* 1 stick (8 tablespoons) unsalted butter, at room temperature 
+* 100g (1/2 cup) sugar 
+* 110g (1/2 cup) brown sugar
+* 2 TB molasses
+* 2 large eggs 
+* 1 1/2 teaspoons vanilla extract 
+* Optional add-ins: white chocolate, candied ginger
 
-* 1 cup sugar
-* 1/2 cup coconut oil (butter works too)
-* 2 unbeaten eggs
-* 1.5 cups mashed overly ripe bananas (about 3)
-* 1 TB lemon juice
-* 2 cups flour
-* 3 tsp baking powder
-* 1/2 tsp salt
-* 1 cup chopped, toasted walnuts
 
 ## Instructions
 
-1. Preheat oven to 350
-2. Cream oil and sugar
-3. Add eggs one at a time, beating until combined
-4. Stir in banana and lemon juice
-5. Sift in flour, baking powder and salt
-6. Stir in nuts
-7. Pour into greased loaf pan. Bake for approximately one hour, or until toothpick comes out clean.
+1. Center a rack in the oven and preheat the oven to convection 350 degrees F. Line a baking sheet with parchment.
+
+2. Whisk the flour, baking powder, spices, and salt together. Add the semolina and whisk again to blend.
+
+3. Working with a stand mixer, preferably fitted with a paddle attachment, or with a hand mixer in a large bowl, beat the butter and sugar together at medium speed for 3 minutes, until very smooth. (Can use Keller's method to get butter to mayonaisse consistency)
+
+4. Add the eggs and continue to beat on medium speed, scraping down the bowl as needed, for another 2 minutes, or until the mixture is light, smooth and creamy. 
+
+5. Beat in the vanilla extract. 
+
+6. Reduce the mixer speed to low and add the dry ingredients, mixing only until they are incorporated. You'll have a soft stick-to-your-fingers dough that will ball up around the paddle or beaters. 
+
+7. Scrape down the paddle and bowl, toss in any add-ins, and mix just to blend.
+
+8. Scrape half the dough onto one side of the baking sheet. Using (wet) fingers and a rubber spatula or scraper, work the dough into a log about 12 inches long and 1 1/2 inches wide. Be carefil not to give the long sides pointy ends as these can cook faster. Form a second log with the remaining dough on the other side of the baking sheet.
+
+9. Bake for 15-17 minutes, or until the logs are lightly golden but still soft and springy to the touch. Transfer the baking sheet to a rack and cool the logs on the baking sheet for 30 minutes.
+
+10. If you turned off the oven, bring it back up to 350 degrees F.
+
+11. Using a wide metal spatula, transfer the logs to a cutting board. Lay them on one side and slide sheet back into oven.
+
+12. Bake the biscotti for about 5-8 minutes, then flip over to other side and bake for another 5 minutes, or until they are golden and firm. Transfer them to racks and cool to room temperature.
+
+Storing: Because they are dry and they're fine if they get even drier, the biscotti will keep at room temperature, covered or not, for about a week. They can be frozen, but I rarely store them that way--mostly because they rarely last long enough to get wrapped up for long-term storage.
 
 
 ## Notes 
 
-* Original recipe uses margarine. Have used coconut oil and butter with good results.
-* Banana bread tips from [Stella Parks](https://www.seriouseats.com/2016/09/how-to-make-the-best-banana-bread.html)
+* base recipe is Cherry Almond Biscotti
 
-  
+# 12/05/18
 
+* original recipe uses 1/2 cup cornmeal, didn't have any used 1/2 cup semolina flour
+* used earth balance vegan butter
 
+### 12/09/18
+* Made it above with molasses, which added excellent flavor and coloring, but spread way too much upon being baked. May need to add more flour to absorb the moisture added from brown sugar and molasses. 
+* Added grated nutmeg - great addition. 
+* The molasses flavor is very strong the next day, perhaps halve to 1 TB only
 
-
-
-
-
-
-
+### 12/12/18
+* Used 1 TB molasses and added flour
+* Because this recipe has no add-ins and has brown sugar and molasses, it spreads more. But Dad likes plain gingerbread. If making for other people consider white chocolate pieces or dried ginger to add some bulk to the dough.
