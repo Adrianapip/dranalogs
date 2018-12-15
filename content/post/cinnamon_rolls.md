@@ -43,6 +43,7 @@ DOUGH
 * 170g lukewarm 2% milk
 * 2 large eggs
 * 85g unsalted butter, melted
+* 1 TB sugar
 
 FILLING
 
@@ -67,8 +68,7 @@ Place the saucepan over medium heat, and cook the mixture, whisking constantly, 
 
 2. To make the dough: Mix the tangzhong with the remaining dough ingredients until everything comes together. Let the dough rest, covered, for 20 minutes; this will give the flour a chance to absorb the liquid, making it easier to knead.
 
-3. After 20 minutes, knead the dough — by hand, mixer, or bread machine — to make a smooth, elastic, somewhat sticky dough.
-Shape the dough into a ball, and let it rest in a lightly greased covered bowl for 60 to 90 minutes, until puffy but not necessarily doubled in bulk.
+3. After 20 minutes, knead the dough — by hand, mixer, or bread machine — to make a smooth, elastic, somewhat sticky dough. Using the mixer will take abou 8 minutes to get a smooth dough. Shape the dough into a ball, and let it rest in a lightly greased covered bowl for 60 to 90 minutes, until puffy but not necessarily doubled in bulk.
 
 4. To make the filling: Combine the brown sugar, cinnamon, corn syrup and water, mixing until the cinnamon is thoroughly distributed to make a paste.
 
@@ -107,3 +107,6 @@ Repeat with the second piece of dough and the remaining filling.
 * Used a reviewer's rec to 1.5x the icing and added 2TB of corn syrup, it made a paste but it was unspreadable and made a lot of goo that seemed to fall out when inverting the pan after baking. Makes also a pretty dark bun on top because it's covered in the cinnamon mixture. Next time will try a butter spread.
 * also the recipe makes quite a bit of icing - for family may make half as much but for display/guests make the whole recipe.
 * the dough is not very sweet. May experiment with more sugar next time. 
+
+## 12/15/18
+* Made a half recipe, added 1 TB sugar to dough.
