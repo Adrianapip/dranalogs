@@ -79,17 +79,23 @@ enableEmoji = true
   url = "/#about"
 
 [[menu.links]]
-  weight = 1
+  weight = 3
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
   url = "https://github.com/kakawait"
 [[menu.links]]
   weight = 2
-  identifier = "stackoverflow"
-  name = "Stack Overflow"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
+  identifier = "goodreads"
+  name = "goodreads"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-book\"></i>"
+  url = "https://www.goodreads.com/user/show/31308692-adriana"
+[[menu.links]]
+  weight = 1
+  identifier = "instagram"
+  name = "Instagram"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-instagram\"></i>"
+  url = "https://instagram.com/thescientess"
 
 #[[menu.misc]]
 #  weight = 1
@@ -142,7 +148,7 @@ enableEmoji = true
   # Current image is on AWS S3 and delivered by AWS CloudFront.
   # Otherwise put your image in folder `static/_images/` (development)  or in `source/assets/images/` if you can't or don't want to build the theme,
   # and use relative url : `your-image.png`
-  coverImage = "succ1.png"
+  coverImage = "lavender.jpg"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true

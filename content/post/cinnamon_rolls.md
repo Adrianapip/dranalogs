@@ -10,11 +10,15 @@ keywords:
 - rolls
 - bread
 autoThumbnailImage: false
-thumbnailImagePosition: "top"
-thumbnailImage: 
+thumbnailImagePosition: left
+thumbnailImage: /cinnamon_rolls_tn.jpg/
 coverImage: 
 metaAlignment: center
 ---
+18 doughy and flakey medium rolls. 
+
+<!--more-->
+
 :alarm_clock:: 2.5 hours <br>
 :bread:: 18 medium rolls
 
