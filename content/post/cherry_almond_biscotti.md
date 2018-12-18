@@ -13,7 +13,7 @@ keywords:
 autoThumbnailImage: false
 thumbnailImagePosition: left
 thumbnailImage: /cherry_almond_biscotti_tn.jpg/
-coverImage: 
+coverImage: /cherry_almond_biscotti.jpg/
 metaAlignment: center
 ---
 A sweet almond biscotti balanced by tart cherries. 
@@ -25,7 +25,7 @@ A sweet almond biscotti balanced by tart cherries.
 :cookie:: makes about 30 cookies
 
 
-{{< image classes="fancybox center" src="/cherry_almond_biscotti.jpg/"  title="Warm from the oven" >}}
+<!--{{< image classes="fancybox center" src="/cherry_almond_biscotti.jpg/"  title="Warm from the oven" >}}-->
 
 ## Ingredients
 * 180g (1 1/2) cups all-purpose flour 

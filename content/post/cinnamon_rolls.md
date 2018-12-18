@@ -15,11 +15,11 @@ thumbnailImage: /cinnamon_rolls_tn.jpg/
 coverImage: 
 metaAlignment: center
 ---
-18 doughy and flakey medium rolls. 
+18 medium doughy and flaky rolls. 
 
 <!--more-->
 
-:alarm_clock:: 2.5 hours <br>
+:alarm_clock:: 3.5 hours <br>
 :bread:: 18 medium rolls
 
 <br>
