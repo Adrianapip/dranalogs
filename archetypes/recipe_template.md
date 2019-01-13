@@ -1,5 +1,5 @@
  ---
-title: "Cherry Almond Biscotti"
+title: "Recipe Name Here"
 date: 2018-12-05
 categories:
 - recipes
@@ -13,9 +13,11 @@ keywords:
 autoThumbnailImage: false
 thumbnailImagePosition: left
 thumbnailImage: /cherry_almond_biscotti_tn.jpg/
+#minimmum size for thumbnail is 200x200px
 coverImage: /cherry_almond_biscotti.jpg/
+#minimum size for cover image is 1200x600 px
 metaAlignment: center
-draft: False
+draft: True
 ---
 A sweet almond biscotti balanced by tart cherries. 
 
