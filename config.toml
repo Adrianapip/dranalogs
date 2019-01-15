@@ -12,10 +12,10 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://tender-carson-f216ad.netlify.com"
+baseURL = "https://www.dranalogs.com"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Dranalogs"
+title = "dranalogs"
 theme = "hugo-tranquilpeak-theme"
 #disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -35,14 +35,14 @@ enableEmoji = true
   name = "Adriana"
   bio = "A log of recipes, books, and other random things."
   job = "Mom, Scientist, Baker, Gardener, Reader"
-  #location = "France"
+  #location = "US"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  #gravatarEmail = "thibaud.lepretre@gmail.com"
+  gravatarEmail = "aspatterson@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "/adriana.jpg/"
   # Your Twitter username without the @. E.g : thibaudlepretre
-  # twitter = "thibaudlepretre"
+  twitter = "aspatterson"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
   # googlePlus = "+ThibaudLepretre"
 
@@ -83,7 +83,7 @@ enableEmoji = true
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/kakawait"
+  url = "https://github.com/adrianapip"
 #[[menu.links]]
 #  weight = 2
 #  identifier = "goodreads"
@@ -125,7 +125,7 @@ enableEmoji = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Dranalogs: recipes and books"
+  description = "dranalogs: recipes and books"
 
   # Customization
   # Define the behavior of the sidebar
@@ -198,10 +198,10 @@ enableEmoji = true
   #  icon = "fa-facebook-official"
   #  url = "https://www.facebook.com/sharer/sharer.php?u=%s"
 
-  [[params.sharingOptions]]
-    name = "Twitter"
-    icon = "fa-twitter"
-    url = "https://twitter.com/intent/tweet?text=%s"
+  #[[params.sharingOptions]]
+  #  name = "Twitter"
+  #  icon = "fa-twitter"
+  #  url = "https://twitter.com/intent/tweet?text=%s"
 
   #[[params.sharingOptions]]
   #  name = "Google+"
