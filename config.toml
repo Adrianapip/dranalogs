@@ -33,8 +33,7 @@ enableEmoji = true
 
 [author]
   name = "Hey, I'm Adriana."
-  bio = ['"Drana" = one of my nicknames;', 
-  '"logs" = compiliations of \n recipes, book reviews, and various miscellany.']
+  bio = "Welcome to dranalogs. drana = one of my nicknames; logs = compiliations of recipes, book reviews, and interesting miscellany."
   #job = ""
   #location = "US"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -166,7 +165,7 @@ enableEmoji = true
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  favicon = "/favicon.png"
+   favicon = "/favicon.png"
 
   # Header configuration
   # The link at the right of the header is customizable
