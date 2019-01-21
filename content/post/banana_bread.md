@@ -16,18 +16,16 @@ thumbnailImage: //
 coverImage: /banana_bread.jpg/
 #minimum size for cover image is 1200x600 px
 metaAlignment: center
-draft: True
+draft: False
 ---
 The Patterson Banana Bread, passed down from my Grandma. <!--more-->
 
 Originally handwritten in an old cookbook, the recipe was passed down my Mom, complete with her Thai annotations.
 
-:alarm_clock:: 2 hours <br>
-:bread:: makes one loaf pan
-
 >"To Pim with Love, Mom. April 18, 1981"
 
-
+:alarm_clock:: 2 hours <br>
+:bread:: makes one loaf pan
 
 ## Ingredients
 
