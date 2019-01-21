@@ -18,7 +18,7 @@ thumbnailImage: /lemon_meringue_tn.jpg/
 coverImage: /lemon_meringue.jpg/
 #minimum size for cover image is 1200x600 px
 metaAlignment: center
-draft: True
+draft: False
 ---
 A lemon pie with the perfect ratio of sweet meringue to tart filling in a flaky shortcrust pastry. 
 
