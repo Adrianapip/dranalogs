@@ -1,27 +1,29 @@
 ---
-title: "Banana Bread"
+Title: "Banana Bread"
 date: 2018-11-10
 categories:
 - recipes
 tags:
-- dessert
-- breads
+- bread
 - banana
 keywords:
 - banana
 - bread
 autoThumbnailImage: false
-thumbnailImagePosition: "top"
-thumbnailImage: 
-coverImage: 
+thumbnailImagePosition: left
+thumbnailImage: //
+#minimmum size for thumbnail is 200x200px
+coverImage: /banana_bread.jpg/
+#minimum size for cover image is 1200x600 px
 metaAlignment: center
+draft: True
 ---
-Banana bread recipe passed down from Grandma Patterson. Originally handwritten in an old cookbook, the recipe was passed down my Mom, complete with her Thai annotations.
-<!--more-->
+The Patterson Banana Bread, passed down from my Grandma. <!--more-->
 
-{{< image classes="fancybox center" src="/banana_bread.jpg"  title="Banana Bread" >}}
+Originally handwritten in an old cookbook, the recipe was passed down my Mom, complete with her Thai annotations.
 
-<p></p>
+:alarm_clock:: 2 hours <br>
+:bread:: makes one loaf pan
 
 >"To Pim with Love, Mom. April 18, 1981"
 
