@@ -1,6 +1,6 @@
 ---
 title: "Christmas Dinner Menu"
-date: 2019-1-22
+date: 2019-12-25
 categories:
 - recipes
 tags:
@@ -16,6 +16,7 @@ coverImage:
 metaAlignment: center
 ---
 A menu for Christmas Dinner complete with prime rib, goose and lamb
+
 <!--more-->
 
 <br>
