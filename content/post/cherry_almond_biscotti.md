@@ -57,7 +57,7 @@ A sweet almond biscotti balanced by tart cherries.
 
 8. Scrape half the dough onto one side of the baking sheet. Using (wet) fingers and a rubber spatula or scraper, work the dough into a log about 12 inches long and 1 1/2 inches wide. Be carefil not to give the long sides pointy ends as these can cook faster. Form a second log with the remaining dough on the other side of the baking sheet.
 
-9. Bake for 15 minutes, or until the logs are lightly golden but still soft and springy to the touch. Transfer the baking sheet to a rack and cool the logs on the baking sheet for 30 minutes.
+9. Bake for 18 minutes, or until the logs are lightly golden but still soft and springy to the touch. Transfer the baking sheet to a rack and cool the logs on the baking sheet for 30 minutes.
 
 10. If you turned off the oven, bring it back up to 350 degrees F.
 
