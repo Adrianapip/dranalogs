@@ -33,7 +33,7 @@ enableEmoji = true
 
 [author]
   name = "Hey, I'm Adriana."
-  bio = "Welcome to dranalogs. drana = one of my nicknames; logs = compiliations of recipes, book reviews, and interesting miscellany."
+  bio = "Baking. Books. Bioinformatics."
   #job = ""
   #location = "US"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -125,7 +125,7 @@ enableEmoji = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "dranalogs: recipes and books"
+  description = "dranalogs: baking, books and bioinformatics"
 
   # Customization
   # Define the behavior of the sidebar
