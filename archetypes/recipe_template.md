@@ -13,7 +13,7 @@ keywords:
 autoThumbnailImage: false
 thumbnailImagePosition: left
 thumbnailImage: /cherry_almond_biscotti_tn.jpg/
-#minimmum size for thumbnail is 200x200px
+#minimmum size for thumbnail is 400x400px
 coverImage: /cherry_almond_biscotti.jpg/
 #minimum size for cover image is 1200x600 px
 metaAlignment: center
