@@ -32,8 +32,8 @@ enableEmoji = true
   archive = "archives"
 
 [author]
-  name = "Hey, I'm Adriana."
-  bio = "Baking. Books. Bioinformatics."
+  name = "Hey, I'm Adriana :)"
+  bio = "I'm a scientist and mom of three. When I'm not thinking about DNA or diapers, I mostly bake and read. Welcome to my site!"
   #job = ""
   #location = "US"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
