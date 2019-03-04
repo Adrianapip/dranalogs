@@ -34,11 +34,8 @@ This recipe checks all the boxes:
 <br>
 
 - [x] can be made and frosted a day ahead without sacrificing texture or freshness (whatever superparent has time to make AND frost cupcakes the day of a child's birthday party :bow:)
-
 - [x] can be easily modified for flavor (sprinkles = funfetti cake; lemon oil/zest = lemon cake; almond extract = almond cake)
-
 - [x] can be easily modified for color; its pure white color is a blank canvas for all those fun colored cake gels
-
 - [x] does not leave a pool of grease in the bottom of the cupcake tins; i.e., this is a light and airy cake but surprisingly moist as well
 
 :alarm_clock:: 2 hours <br>

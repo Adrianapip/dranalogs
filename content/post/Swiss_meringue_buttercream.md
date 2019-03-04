@@ -31,7 +31,7 @@ This is a great recipe because it:
 - [x] holds shape at room temperature; read: can withstand sitting out at a kid's birthday party;
 - [x] can be made ahead of time (see storage notes below);
 - [x] takes flavoring well, such as lemon, strawberry, chocolate, etc;
-- [x] safely cooks the meringue to 185°F. I don't mess around with food poisoning + kids.
+- [x] safely cooks the raw eggs in the meringue to 185°F. I don't mess around with food poisoning + kids.
 
 
 :alarm_clock:: 30-45 minutes <br>
