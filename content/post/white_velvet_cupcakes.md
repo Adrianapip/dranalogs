@@ -76,13 +76,13 @@ Get the eggs and butter to room temperature. I find that eggs are easier to sepe
 
 8. Rest cupcakes in pan for 10 minutes on cooling rack, then remove cupcakes from pan. Allow to cool completely before frosting/storing.
 
-9. Frost with Swiss Meringue Buttercream. 
+9. Frost with [Swiss Meringue Buttercream](https://www.dranalogs.com/2019/03/swiss-meringue-buttercream/). 
 
 Storing: Keep in an airtight container unfrosted overnight at room temperature or overnight. Can frost the night before you need them. Or, you can frost them and keep them in an airtight container refridgerated the night before you need them. Serve at room temp. 
 
 ## Modifications:
-* For lemon cake, add 1 tsp of lemon oil and 1.5 tsp of lemon zezt in place of vanilla extract
-* For funfetti, fold 1/4 cup of colored jimmies to the batter after step 5. The resulting cake is still quite good, but I've found that the sprinkles add a bit of "chalkiness" to the batter. Sounds gross now that I type it but kids could care less. Sprinkles >>> Chalkiness in their book.
+:lemon: For lemon cake, add 1 tsp of lemon oil and 1.5 tsp of lemon zezt in place of vanilla extract
+:confetti_ball: For funfetti, fold 1/4 cup of colored jimmies to the batter after step 5. The resulting cake is still quite good, but I've found that the sprinkles add a bit of "chalkiness" to the batter. Sounds gross now that I type it, but to kids sprinkles >>> chalkiness.
 
 ## Notes 
 
