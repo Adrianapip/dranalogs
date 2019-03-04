@@ -1,13 +1,13 @@
 0 info it worked if it ends with ok
-1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'run', 'prod' ]
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'run', 'lint' ]
 2 info using npm@3.10.10
 3 info using node@v6.9.4
 4 verbose config Skipping project config: /Users/adrianaip/.npmrc. (matches userconfig)
 5 verbose stack Error: ENOENT: no such file or directory, open '/Users/adrianaip/package.json'
 5 verbose stack     at Error (native)
-6 verbose cwd /Users/adrianaip/Desktop/dranalogs
-7 error Darwin 17.6.0
-8 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "run" "prod"
+6 verbose cwd /Users/adrianaip/Amazon Drive/Dranalogs website/dranalogs
+7 error Darwin 18.2.0
+8 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "run" "lint"
 9 error node v6.9.4
 10 error npm  v3.10.10
 11 error path /Users/adrianaip/package.json
