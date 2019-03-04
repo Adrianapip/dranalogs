@@ -12,7 +12,7 @@ keywords:
 - cookies
 autoThumbnailImage: false
 thumbnailImagePosition: left
-thumbnailImage: /cherry_almond_biscotti_tn.jpg/
+thumbnailImage: /thumbnail_holder.jpg/
 #minimmum size for thumbnail is 400x400px
 coverImage: /cherry_almond_biscotti.jpg/
 #minimum size for cover image is 1200x600 px

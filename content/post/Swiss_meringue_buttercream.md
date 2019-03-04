@@ -14,7 +14,7 @@ keywords:
 - frosting
 autoThumbnailImage: false
 thumbnailImagePosition: left
-thumbnailImage: //
+thumbnailImage: /thumbnail_holder.jpg/
 #minimmum size for thumbnail is 400x400px
 coverImage: //
 #minimum size for cover image is 1200x600 px
